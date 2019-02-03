@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.cpp
+DataFile.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.h
+iostream
+-
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.h
+fstream
+-
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DelimiterVarSize_Register.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+DelimiterVarSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DelimiterVarSize_Register.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DelimiterVarSize_Register.h
+DataFile.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/FixedSize_Register.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+FixedSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/FixedSize_Register.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/FixedSize_Register.h
+DataFile.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/KnownVarSize_Register.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+KnownVarSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/KnownVarSize_Register.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/KnownVarSize_Register.h
+DataFile.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DataFile.h
+
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/main.cpp
+iostream
+-
+FixedSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/FixedSize_Register.h
+KnownVarSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/KnownVarSize_Register.h
+DelimiterVarSize_Register.h
+C:/Users/Javier Nunez/CLionProjects/Prueba_Parcial_I/DelimiterVarSize_Register.h
+
